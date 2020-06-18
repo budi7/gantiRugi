@@ -1,6 +1,6 @@
 ### Gantirugi Mobile Change Log
 
-## flow Claim update. 
+## Flow Claim Update. 
 history 
 1. awal: claim submit dokumen pengajuan engharuskan untuk mendapatkan koordinat dg gps, baru bisa submit dokumen pengajuan claim
 `_`
@@ -15,7 +15,7 @@ Jun 19, 2019 - v Testing 3.4.1
 `
 Jul 29, 2019 - V Testing 4.0.5
 `
-## membership
+## Membership
 1. awal : membership tdk ada konsep simpanan pokok & wajib, dengan nama copper, gold, bronze dsb
 `
 _
@@ -31,7 +31,7 @@ _
 Feb 12 - V Live 0.4.2
 `
 
-## labels
+## Labels
 1. awal : label awal apliksai sesuai yg ditentukan 
 `
 _
