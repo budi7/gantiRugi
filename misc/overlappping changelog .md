@@ -35,8 +35,8 @@ Feb 12 - V Live 0.4.2
 1. awal : label awal apliksai sesuai yg ditentukan 
 `
 _
-
 `
+
 2. major label change: perubahan label karena tidak boleh menggunakan istilah asuransi
 `
 2019, _
