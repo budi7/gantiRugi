@@ -68,6 +68,7 @@ contoh: buka web "pemasar A" lalu diredirect ke login gantirugi, di halaman gant
 5. semua label iuran menjadi premi ✅
 
 6. banner : materi 8 definisi asuransi (lampiran 3) 🚧API
+
     -> materi no 8, dipindah ke nomor satu
 
 7. urutan menu : beranda, produk, polis, klaim, saya ✅
@@ -84,6 +85,7 @@ contoh: buka web "pemasar A" lalu diredirect ke login gantirugi, di halaman gant
 ### Dokumen2
 
 1. update semua dokumen pdf sesuai 🚧API
+
     -> dokumen PDF : update terbaru, dokumen (bulan maret seperti (Lampiran 1) 
 
 2. label pengelola -> pengelola adminstrasi 🚧API
@@ -97,6 +99,7 @@ contoh: buka web "pemasar A" lalu diredirect ke login gantirugi, di halaman gant
 2. menyiapkan data2 yg diperlukan untuk testing
     - account, sesuai level (Principal, Partner, Executive dan Associate)  ✅
     - data pemasar & penanggung dengan detail :  ✅
+    
         a. Pemasar A dengan Penanggung ABC b. Pemasar B dengan Penanggung ABC dan c Pemasar C dengan Penanggung XYZ ... ini untuk produk mobil ... untuk produk PA kombinasi dapat berbeda ... misalkan: Pemasar A dengan Penanggung UVW atau Pemasar B dengan Penangung DEF. 
 
         * note: untuk setiap produk, bisa dibedakan untuk kombinasi penanggung, misal mobil: pemasar A penanggung XY, PA: pemasar B  penanggung YZ, motor: pemasar A penanggung XY dan pemasar B penanggung XZ
